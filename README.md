@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a 23-year-old aspiring programmer from [Your City/Country, if you want to add it!], currently diving deep into the world of **web development**! 💻 I'm passionate about creating interactive and user-friendly experiences on the web.
+I'm a 23-year-old aspiring programmer from Venezuela/Germany, currently diving deep into the world of **web development**! 💻 I'm passionate about creating interactive and user-friendly experiences on the web.
 
 ## 🚀 About Me
 
